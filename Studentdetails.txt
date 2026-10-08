@@ -1,0 +1,4 @@
+nmae;keerthi
+usn;1gcscs08
+sem;4
+year;2
